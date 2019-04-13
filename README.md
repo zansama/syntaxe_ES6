@@ -1,44 +1,44 @@
-# Syntaxes ES6 et suiavntes
+# Syntaxes ES6 et ES6+
 
 ## Variables `let` et `const`
-> Exercice à réaliser dans le dossier `1-variables`
+➡️ Exercice à réaliser dans le dossier `1-variables`
 
 ### Section 1
-1. Remplacez toutes les occurences de `var` par `let`. 
+1. Remplacez toutes les occurences de `var` par `let`.
 2. Constatez que cela ne change rien. Désormais **on n'utilisera plus `var`** mais `let` ou `const`
-3. Remplacez toutes les occurences de `let` par `const`. 
+3. Remplacez toutes les occurences de `let` par `const`.
 4. Expliquez l'erreur
 5. Corrigez le code en conservant le maximum de valeurs constantes
 
-### Section 1
-1. Remplacez toutes les occurences de `let` par `const`. 
-2. Expliquez **l'abscence** l'erreur
+### Section 2
+1. Remplacez toutes les occurences de `let` par `const`.
+2. Expliquez **l'absence** l'erreur
 
 ### Section 3
-1. Remplacez toutes les occurences de `let` par `const`. 
+1. Remplacez toutes les occurences de `let` par `const`.
 2. Expliquez l'erreur
 3. Corrigez le code en conservant le maximum de valeurs constantes
 
-**COMMIT!**
+**COMMITTEZ VOS CHANGEMENTS 🚢**
 
-## "Arrow functions"
->Exercice à réaliser dans le dossier `2-functions`
+## Arrow functions
+➡️ Exercice à réaliser dans le dossier `2-functions`
 
 ### Section 1
 Convertissez les 3 fonctions avec la notation "Arrow function" et vérifiez que le code fonctionne comme avant la conversion
 
 ### Section 2
-1. **Assurez-vous de comprendre le code déjà écrit avant toute modification ! Au besoin commentez-le.**
+1. **Avant toute modification : a ssurez-vous de comprendre le code déjà écrit ! Au besoin commentez-le.**
 2. Convertissez la fonction `showThis` en notation "Arrow function"
 3. Observez le résultat. Que pouvez-vous en conclure ?
 
 ### Section 3
 Complétez le code pour reproduire le comportement de la section 1 mais cette fois-ci grâce à l'objet `odile`. Vous utiliserez dès que possible des "Arrow functions".
 
-**COMMIT!**
+**COMMITTEZ VOS CHANGEMENTS 🚢**
 
 ## `Object.keys` & `Object.values`
->Exercice à réaliser dans le dossier `3-objects`
+➡️ Exercice à réaliser dans le dossier `3-objects`
 
 ## Section 1
 Afficher les carractéristiques du véhicule sours la forme `clé : valeur` (Ex: `id: 3221`)
@@ -46,10 +46,10 @@ Afficher les carractéristiques du véhicule sours la forme `clé : valeur` (Ex:
 ## Section 2
 Pour chacunes des perturbations du fichier `data.js` (variable `data`) afficher leur texte.
 
-**COMMIT!**
+**COMMITTEZ VOS CHANGEMENTS 🚢**
 
 ## Destructuring
->Exercice à réaliser dans le dossier `4-destructuring`
+➡️ Exercice à réaliser dans le dossier `4-destructuring`
 
 ### Section 1
 1. **COMPRENEZ** et **COMMENTEZ** le code de la première partie
@@ -58,7 +58,7 @@ Pour chacunes des perturbations du fichier `data.js` (variable `data`) afficher 
 ## Section 2
 Pour chacunes des perturbations du fichier `data.js` (variable `data`) récupérer dans des variables puis afficher leur texte, date de début et date de fin.
 
-**COMMIT!**
+**COMMITTEZ VOS CHANGEMENTS 🚢**
 
 ## Import / Export
 >Exercice à réaliser dans le dossier `5-import`
