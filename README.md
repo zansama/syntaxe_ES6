@@ -59,3 +59,14 @@ Pour chacunes des perturbations du fichier `data.js` (variable `data`) afficher 
 Pour chacunes des perturbations du fichier `data.js` (variable `data`) récupérer dans des variables puis afficher leur texte, date de début et date de fin.
 
 **COMMIT!**
+
+## Import / Export
+>Exercice à réaliser dans le dossier `5-import`
+
+### Section 1
+1. Lire et comprendre le code déjà écrit dans la première partie
+2. Importer et utiliser la fonction `showError`
+2. Importer et utiliser la fonction anonyme définie à la fin du fichier
+
+## Section 2
+Exporter les fonctions du fichier `math.js` pour pouvoir les utiliser dans la script principal (`script.js`)
