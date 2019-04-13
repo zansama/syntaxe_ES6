@@ -38,12 +38,24 @@ Complétez le code pour reproduire le comportement de la section 1 mais cette fo
 **COMMIT!**
 
 ## `Object.keys` & `Object.values`
->Exercice à réaliser dans le dossier `3-objects
+>Exercice à réaliser dans le dossier `3-objects`
 
 ## Section 1
 Afficher les carractéristiques du véhicule sours la forme `clé : valeur` (Ex: `id: 3221`)
 
 ## Section 2
 Pour chacunes des perturbations du fichier `data.js` (variable `data`) afficher leur texte.
+
+**COMMIT!**
+
+## Destructuring
+>Exercice à réaliser dans le dossier `4-destructuring`
+
+### Section 1
+1. **COMPRENEZ** et **COMMENTEZ** le code de la première partie
+2. Afficher le 3e élément du tableau ainsi que la propriété `age` de l'objet
+
+## Section 2
+Pour chacunes des perturbations du fichier `data.js` (variable `data`) récupérer dans des variables puis afficher leur texte, date de début et date de fin.
 
 **COMMIT!**
