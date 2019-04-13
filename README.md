@@ -36,3 +36,14 @@ Convertissez les 3 fonctions avec la notation "Arrow function" et vérifiez que 
 Complétez le code pour reproduire le comportement de la section 1 mais cette fois-ci grâce à l'objet `odile`. Vous utiliserez dès que possible des "Arrow functions".
 
 **COMMIT!**
+
+## `Object.keys` & `Object.values`
+>Exercice à réaliser dans le dossier `3-objects
+
+## Section 1
+Afficher les carractéristiques du véhicule sours la forme `clé : valeur` (Ex: `id: 3221`)
+
+## Section 2
+Pour chacunes des perturbations du fichier `data.js` (variable `data`) afficher leur texte.
+
+**COMMIT!**
