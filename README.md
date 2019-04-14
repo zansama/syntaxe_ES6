@@ -40,10 +40,10 @@ Complétez le code pour reproduire le comportement de la section 1 mais cette fo
 ## `Object.keys` & `Object.values`
 ➡️ Exercice à réaliser dans le dossier `3-objects`
 
-## Section 1
+### Section 1
 Afficher les carractéristiques du véhicule sours la forme `clé : valeur` (Ex: `id: 3221`)
 
-## Section 2
+### Section 2
 Pour chacunes des perturbations du fichier `data.js` (variable `data`) afficher leur texte.
 
 **COMMITTEZ VOS CHANGEMENTS 🚢**
@@ -55,18 +55,20 @@ Pour chacunes des perturbations du fichier `data.js` (variable `data`) afficher 
 1. **COMPRENEZ** et **COMMENTEZ** le code de la première partie
 2. Afficher le 3e élément du tableau ainsi que la propriété `age` de l'objet
 
-## Section 2
+### Section 2
 Pour chacunes des perturbations du fichier `data.js` (variable `data`) récupérer dans des variables puis afficher leur texte, date de début et date de fin.
 
 **COMMITTEZ VOS CHANGEMENTS 🚢**
 
 ## Import / Export
->Exercice à réaliser dans le dossier `5-import`
+➡️ Exercice à réaliser dans le dossier `5-import`
 
 ### Section 1
 1. Lire et comprendre le code déjà écrit dans la première partie
 2. Importer et utiliser la fonction `showError`
 2. Importer et utiliser la fonction anonyme définie à la fin du fichier
 
-## Section 2
-Exporter les fonctions du fichier `math.js` pour pouvoir les utiliser dans la script principal (`script.js`)
+### Section 2
+Exporter les fonctions du fichier `math.js` pour pouvoir les utiliser dans le script principal (`script.js`)
+
+**COMMITTEZ VOS CHANGEMENTS 🚢**
