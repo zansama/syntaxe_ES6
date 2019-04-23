@@ -62,6 +62,7 @@ Pour chacunes des perturbations du fichier `data.js` (variable `data`) récupér
 
 ## Import / Export
 ➡️ Exercice à réaliser dans le dossier `5-import`
+__⚠ Cet exercice est à exécuter soit sous Firefox soit sous Chrome avec un serveur de développement (WebStorm ou VS Code en proposent)__
 
 ### Section 1
 1. Lire et comprendre le code déjà écrit dans la première partie
