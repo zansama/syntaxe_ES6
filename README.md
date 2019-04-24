@@ -8,15 +8,20 @@
 2. Constatez que cela ne change rien. Désormais **on n'utilisera plus `var`** mais `let` ou `const`
 3. Remplacez toutes les occurences de `let` par `const`.
 4. Expliquez l'erreur
+Uncaught TypeError: Assignment to constant variable.
+Cette erreur nous indique que nous avons essayer de reassigner une constante ce qui est impossible puissent que les 
+constante sont fixe.
 5. Corrigez le code en conservant le maximum de valeurs constantes
 
 ### Section 2
 1. Remplacez toutes les occurences de `let` par `const`.
 2. Expliquez **l'absence** l'erreur
+les deux constante sont des tableaux à donnée fixe qu'on ne modifie pas dans ce script donc pas d'erreur !
 
 ### Section 3
 1. Remplacez toutes les occurences de `let` par `const`.
 2. Expliquez l'erreur
+Plus ou moin similaire que la premiere section, nous voulons reassigner la constant d'objet savedGame donc ERROR !
 3. Corrigez le code en conservant le maximum de valeurs constantes
 
 **COMMITTEZ VOS CHANGEMENTS 🚢**
