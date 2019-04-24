@@ -15,11 +15,11 @@ console.log(age)
 //4.2 Application
 
 console.log(data)
-for (let i = 0 ; i <Object.keys(data).length; i++){
-  const {dateDebut, dateFin, texte} = {
-    dateDebut : Object.values(data)[i].dateDebut,
-    dateFin : Object.values(data)[i].dateFin,
-    texte : Object.values(data)[i].texte,
-  }
-    console.log('A partir de '+ dateDebut +' '+ 'jusqu\'a ' + dateFin + ' ' + texte);
-}
+Object.values(data).forEach(item =>  {
+  const {dateDebut, dateFin, texte} = item
+
+console.log('A partir de '+ dateDebut +' '+ 'jusqu\'a ' + dateFin + ' ' + texte);
+
+})
+
+
