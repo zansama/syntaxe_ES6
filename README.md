@@ -36,6 +36,8 @@ Convertissez les 3 fonctions avec la notation "Arrow function" et vérifiez que 
 1. **Avant toute modification : a ssurez-vous de comprendre le code déjà écrit ! Au besoin commentez-le.**
 2. Convertissez la fonction `showThis` en notation "Arrow function"
 3. Observez le résultat. Que pouvez-vous en conclure ?
+J'ai du modifier la fonction étant donner que ES6 ne prend pas this donc je l'est remplacer par object qui etait mon objet courant
+(const object). 
 
 ### Section 3
 Complétez le code pour reproduire le comportement de la section 1 mais cette fois-ci grâce à l'objet `odile`. Vous utiliserez dès que possible des "Arrow functions".
